@@ -1,0 +1,27 @@
+[
+  {
+    "id": "arctic",
+    "label": "Arctic",
+    "color": "#f4f3ef"
+  },
+  {
+    "id": "ivory",
+    "label": "Ivory",
+    "color": "#fffff0"
+  },
+  {
+    "id": "mint",
+    "label": "Mint",
+    "color": "#e3efe2"
+  },
+  {
+    "id": "indigo",
+    "label": "Indigo",
+    "color": "#264348"
+  },
+  {
+    "id": "mauve",
+    "label": "Mauve",
+    "color": "#673147"
+  }
+]
