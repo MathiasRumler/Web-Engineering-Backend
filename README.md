@@ -1,6 +1,9 @@
 # Web-Engineering-Backend
 
 ## Tech-Stack
-### Express.js
+Als Programmiersprache war JavaScript genauer gesagt das Framework Express.js vorgegeben.
 
-Thema dieser Aufgabe waren die Aufgaben des Backends 
+##Description
+
+
+##Problems
