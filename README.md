@@ -1,2 +1,6 @@
 # Web-Engineering-Backend
-university project
+
+## Tech-Stack
+### Express.js
+
+Thema dieser Aufgabe waren die Aufgaben des Backends 
